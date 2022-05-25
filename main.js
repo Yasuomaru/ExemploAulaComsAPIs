@@ -1,4 +1,4 @@
-
+const axios = require('axios').default;
 const app = document.querySelector('#app')
 
 //pedir dados pela rota
